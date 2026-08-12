@@ -4,6 +4,6 @@
 <title>Some relevant title</title>
 </head>
 <body>
-<h2>Hi Team! We are implementing CICD pipeline-Dev Env</h2>
+<h2>Hi Team! We are implementing CICD pipeline-Dev Environment</h2>
 </body>
 </html>
